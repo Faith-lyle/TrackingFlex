@@ -1,0 +1,20 @@
+{
+    "MesConfig": {
+        "enabled": false,
+        "sw_version": "1.0.0.2",
+        "product": "B698",
+        "url": "http://10.100.2.69/Bobcat/Sfc_Response.aspx",
+        "station_id": "SIP-Measurement201-A5-2F-28HSG-S13-R-3",
+        "mac_address": "14:9D:99:84:2A:A5",
+        "test_station_name": "SIP Measurement-3-R"
+    },
+    "panel": {
+        "Title": "Tracking Flex Plugin",
+        "PASSQty": 0,
+        "FAILQty": 1,
+        "logFilePath": "/Users/luxshare-ict/Desktop/PythonProject/TrackingFlex/资料/test.txt",
+        "csvPath": ".",
+        "updateTime": 5,
+        "LastTime": "Tue Dec 13 21:27:11 2022"
+    }
+}

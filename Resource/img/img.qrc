@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="luxshare">
+    <file>luxshare.png</file>
+  </qresource>
+</RCC>
